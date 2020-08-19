@@ -102,7 +102,7 @@ The rule above would compile to:
 }
 ```
 
-### Challenge 5 - Add soem comments 
+### Challenge 5 - Add some comments 
 
 There are a few comments already but you should add some more. SASS allows comments using `//` besides the standard `/* */`.
 
